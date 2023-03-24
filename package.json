@@ -1,0 +1,23 @@
+{
+  "name": "modelo-site-mosaico",
+  "version": "1.0.0",
+  "description": "Modelo de site em mosaico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KillianDB/modelo-site-mosaico.git"
+  },
+  "keywords": [
+    "mosaico",
+    "website"
+  ],
+  "author": "KillianDB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KillianDB/modelo-site-mosaico/issues"
+  },
+  "homepage": "https://github.com/KillianDB/modelo-site-mosaico#readme"
+}
