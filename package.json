@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/KillianDB/modelo-site-mosaico/issues"
   },
-  "homepage": "https://github.com/KillianDB/modelo-site-mosaico#readme"
+  "homepage": "https://github.com/KillianDB/modelo-site-mosaico#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
